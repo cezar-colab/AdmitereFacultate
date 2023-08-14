@@ -1,2 +1,1 @@
-# NewGitRepo
-<a>Matematica</a>
+# AdmitereFacultate
